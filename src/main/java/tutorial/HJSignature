@@ -1,0 +1,9 @@
+import java.security.Signature;
+
+public class HJSig extends Signature {
+	Signature sig;
+	public HJSig(Signature sig) {
+		this.sig = sig;
+	}
+	
+}
