@@ -1,0 +1,1 @@
+path:/workspace/DICE_files/spec-pure-ignore/ltl_hashset.txt
